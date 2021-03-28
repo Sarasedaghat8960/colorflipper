@@ -1,0 +1,49 @@
+h2{
+    text-align: center;
+    background-color: rgb(14, 13, 13);
+    border: black 2px solid;
+    color: yellow;
+    border-radius: 15px;
+    padding: 100px;
+}
+h4{
+    text-align: center;
+    color: black;
+    border-radius: 15px;
+}
+.btn{
+    background-color: black;
+    padding: 10px;
+    border: black 2px solid;
+    text-align: center;
+    border-radius: 15%;
+    color: blanchedalmond;
+}
+h4{
+    margin: 0;
+}
+ li{
+    display: inline-block;
+    margin-right: 10px;
+    border: black 2px solid;
+    background-color: black;
+    border-radius: 15%;
+    padding:20px
+} 
+a{
+    text-decoration: none;
+    color: yellow;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;   
+}
+.container{
+    margin-top: 10%;
+    text-align: center;
+}
+.color{
+    width: 50px;
+}
